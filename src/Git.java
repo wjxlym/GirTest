@@ -4,5 +4,6 @@ public class Git {
         System.out.println("1s");
         System.out.println("master");
         System.out.println("2");
+        System.out.println("2s");
     }
 }
