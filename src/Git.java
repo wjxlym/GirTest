@@ -3,5 +3,6 @@ public class Git {
         System.out.println("GitTest");
         System.out.println("1s");
         System.out.println("master");
+        System.out.println("dev");
     }
 }
